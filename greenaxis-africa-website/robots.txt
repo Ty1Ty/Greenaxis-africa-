@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://greenaxisafrica.netlify.app/sitemap.xml

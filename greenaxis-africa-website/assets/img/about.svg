@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-label="Consultant in a hard hat and hi-vis vest surveying a site beside a river"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfe9f4"/><stop offset="1" stop-color="#eef8ef"/></linearGradient><linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4cb866"/><stop offset="1" stop-color="#1f8a3f"/></linearGradient><linearGradient id="river" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8bd0e2"/><stop offset="1" stop-color="#4aa6c0"/></linearGradient></defs>
+<rect width="720" height="560" fill="url(#sky)"/>
+<circle cx="110" cy="100" r="46" fill="#fff6c9"/>
+<g fill="#b8d6c4"><rect x="470" y="240" width="46" height="120"/><rect x="522" y="200" width="54" height="160"/><rect x="584" y="260" width="42" height="100"/><rect x="634" y="220" width="56" height="140"/></g>
+<path d="M0 340 C150 300 320 340 460 322 C580 308 660 300 720 322 L720 560 L0 560Z" fill="url(#hill)"/>
+<path d="M360 560 C420 500 330 470 420 430 C500 396 640 420 720 400 L720 560Z" fill="url(#river)"/>
+<path d="M440 470 C520 450 610 465 690 450" stroke="#fff" stroke-opacity=".5" stroke-width="3" fill="none" stroke-linecap="round"/>
+<g><rect x="36" y="292" width="10" height="70" fill="#5a3d26"/><circle cx="41" cy="278" r="38" fill="#1b7f3a"/><circle cx="18" cy="302" r="26" fill="#2ba84f"/><circle cx="68" cy="304" r="26" fill="#2ba84f"/></g>
+<g><rect x="650" y="330" width="9" height="56" fill="#5a3d26"/><circle cx="654" cy="318" r="30" fill="#2ba84f"/></g>
+<g stroke="#3b3b3b" stroke-width="7" stroke-linecap="round"><path d="M140 330 L96 500"/><path d="M140 330 L142 508"/><path d="M140 330 L192 498"/></g>
+<rect x="120" y="296" width="40" height="38" rx="7" fill="#f0b90b"/><circle cx="140" cy="312" r="9" fill="#2b2b2b"/><circle cx="140" cy="312" r="4" fill="#9ad8ea"/>
+<g><rect x="300" y="396" width="26" height="100" rx="8" fill="#2f4a3a"/><rect x="334" y="396" width="26" height="100" rx="8" fill="#2f4a3a"/><rect x="294" y="486" width="38" height="16" rx="7" fill="#1d1d1d"/><rect x="330" y="486" width="38" height="16" rx="7" fill="#1d1d1d"/></g>
+<rect x="288" y="262" width="84" height="150" rx="26" fill="#2f5d3a"/>
+<rect x="290" y="268" width="80" height="136" rx="24" fill="#c6e03c"/>
+<rect x="290" y="326" width="80" height="12" fill="#fff" opacity=".9"/><rect x="290" y="364" width="80" height="12" fill="#fff" opacity=".9"/>
+<rect x="326" y="268" width="8" height="136" fill="#2f5d3a"/>
+<path d="M290 288 C270 316 268 350 284 372" stroke="#c6e03c" stroke-width="22" fill="none" stroke-linecap="round"/>
+<path d="M370 290 C398 306 410 328 410 346" stroke="#c6e03c" stroke-width="22" fill="none" stroke-linecap="round"/>
+<circle cx="285" cy="376" r="12" fill="#8d5a3b"/><circle cx="410" cy="350" r="12" fill="#8d5a3b"/>
+<rect x="398" y="318" width="54" height="70" rx="6" fill="#f4e7c8" stroke="#8a6b3a" stroke-width="3" transform="rotate(8 425 353)"/>
+<g stroke="#a89466" stroke-width="3" stroke-linecap="round" transform="rotate(8 425 353)"><path d="M408 336h34M408 348h34M408 360h24M408 372h30"/></g>
+<rect x="313" y="236" width="34" height="30" rx="12" fill="#8d5a3b"/>
+<circle cx="330" cy="224" r="32" fill="#8d5a3b"/>
+<circle cx="320" cy="222" r="3.5" fill="#2b1a10"/><circle cx="341" cy="222" r="3.5" fill="#2b1a10"/>
+<path d="M321 236 Q330 244 340 236" stroke="#2b1a10" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M292 216 A38 34 0 0 1 368 216 Z" fill="#fff"/><rect x="284" y="212" width="92" height="10" rx="5" fill="#fff"/><rect x="322" y="186" width="16" height="30" rx="4" fill="#e9eee9"/>
+<path d="M292 216 A38 34 0 0 1 368 216" fill="none" stroke="#d6ddd7" stroke-width="2"/>
+<g fill="#2ba84f"><path d="M230 520c0-14 6-26 8-34 2 8 8 20 6 34z"/><path d="M250 524c0-12 8-22 12-30 0 10 4 20 0 30z"/></g>
+</svg>
